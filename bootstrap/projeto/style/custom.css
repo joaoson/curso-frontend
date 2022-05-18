@@ -14,3 +14,54 @@ textarea {
     float: left;
     margin: 5px;
 }
+
+.titulo{
+    align-items: center!important;
+}
+
+.logo{
+    width:20%;
+}
+
+.nav-link{
+    color: black;
+}
+
+header{
+    padding: 20px 0;
+    margin-bottom: 120px;
+}
+
+section h2{
+    font-size: 22px;
+}
+small{
+    display: block;
+}
+
+.botaotopo{
+    margin-top: 15px;
+    background-color: #7b65ed;
+    font-weight: 600;
+}
+
+.sobrenos{
+    margin-top: 100px;
+}
+
+.btn{
+    background-color: #7b65ed;
+}
+
+textarea{
+    resize: none;
+}
+
+html{
+    scroll-behavior: smooth;
+    font-family: 'Poppins', sans-serif;
+}
+
+body{
+    font-family: 'Poppins', sans-serif;
+}
