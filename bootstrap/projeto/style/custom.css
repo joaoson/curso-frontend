@@ -53,6 +53,10 @@ small{
     background-color: #7b65ed;
 }
 
+.btn:hover{
+    background-color: #7c65ed70;
+}
+
 textarea{
     resize: none;
 }
